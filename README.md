@@ -10,35 +10,36 @@
 
 
 ## Project_Description
-Who wins a football game<br /> 
+Develop a machine learning model to forecast the winning NFL football team in a given game.<br /> 
 
 ## Questions
-1. Weather - Indoor/Outdoor and Wind
-2. Teams Playing - Home vs Away
-3. Conferences - Divisions
-4. Date - When teams are strong
-5. Points
-6. Stadium Factors - Capacity and Turf vs Grass
-7. Playoffs or Not?
-8. Spread of game prediction
+1. Does weather affect the outcome of a football game? 
+2. Does a team being Home or away affect the outcome of a football game?
+3. Does the conferences of the Football teams affect who will win the game?
+4. Does when the game is played affect who will win the game?
+5. Does the points score affect who will win the football game?
+6. Do Stadium conditions (Capacity and grass) affect who will win the football game?
+7. Does the game being a playoff game affect who will win the football game?
+8. Does the spread of the game affect who will win the football game?
 
 ## Repository_Contents
-![workflow](templates/Images/Files_Workflow.png)
-<br />
+![workflow](Images/ERD.png)
 README.md <br />
 #### Data
- <br />
+nfl_stadiums.csv <br />
+nfl_teams.csv <br />
+spreadspoke_scores.csv <br />
 #### Images
 <br />
 
 
 
 ## Task_Assignments
-Ryland <br />
-Brittney <br />
-Jonah<br />
-Alysa<br />
-Louis<br />
+Ryland - Machine Learning <br />
+Brittney - Tableau and Visualizations<br />
+Jonah - Tableau and Visualizations<br />
+Alysa - Visualizations and Perfecting Presentation<br />
+Louis - Manipulating Data<br />
 
 
 ## Givens
